@@ -1,0 +1,32 @@
+*
+{
+    
+    box-sizing:border-box !important;
+}
+.button
+{
+    width:100vw;
+    position:fixed;
+    bottom:0;
+    z-index:3;
+    padding:0 15px;
+    padding-bottom:3px;
+    background:whitesmoke;
+}
+.icon
+{
+    display:flex !important;
+    justify-content:flex-end !important;
+    align-items:center !important;
+    gap:10px !important;
+}
+.navbar-bg
+{
+   background-color: rgba(102, 222, 238, 0.895)!important;
+}
+.bcolor
+{
+    background-color:rgba(208, 115, 241, 0.826) !important;
+    width:100%!important;
+    height:100%!important;
+}
